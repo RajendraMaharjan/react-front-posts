@@ -1,0 +1,1 @@
+const localHostURL = 'http://localhost:8080/';
